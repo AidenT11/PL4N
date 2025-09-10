@@ -18,3 +18,24 @@ C:\Users\aiden\source\repos\PL4N App\obj\Debug\net8.0-windows\refint\PL4N App.dl
 C:\Users\aiden\source\repos\PL4N App\obj\Debug\net8.0-windows\PL4N App.pdb
 C:\Users\aiden\source\repos\PL4N App\obj\Debug\net8.0-windows\PL4N App.genruntimeconfig.cache
 C:\Users\aiden\source\repos\PL4N App\obj\Debug\net8.0-windows\ref\PL4N App.dll
+C:\Users\aiden\Desktop\PL4N\PL4N App\bin\Debug\net8.0-windows\PL4N App.exe
+C:\Users\aiden\Desktop\PL4N\PL4N App\bin\Debug\net8.0-windows\PL4N App.deps.json
+C:\Users\aiden\Desktop\PL4N\PL4N App\bin\Debug\net8.0-windows\PL4N App.runtimeconfig.json
+C:\Users\aiden\Desktop\PL4N\PL4N App\bin\Debug\net8.0-windows\PL4N App.dll
+C:\Users\aiden\Desktop\PL4N\PL4N App\bin\Debug\net8.0-windows\PL4N App.pdb
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App_MarkupCompile.cache
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App_MarkupCompile.lref
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.g.resources
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.AssemblyInfoInputs.cache
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.AssemblyInfo.cs
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.csproj.CoreCompileInputs.cache
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.sourcelink.json
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.dll
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\refint\PL4N App.dll
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.pdb
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\PL4N App.genruntimeconfig.cache
+C:\Users\aiden\Desktop\PL4N\PL4N App\obj\Debug\net8.0-windows\ref\PL4N App.dll

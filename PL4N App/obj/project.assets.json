@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aiden\\source\\repos\\PL4N App\\PL4N App.csproj",
+      "projectUniqueName": "C:\\Users\\aiden\\Desktop\\PL4N\\PL4N App\\PL4N App.csproj",
       "projectName": "PL4N App",
-      "projectPath": "C:\\Users\\aiden\\source\\repos\\PL4N App\\PL4N App.csproj",
+      "projectPath": "C:\\Users\\aiden\\Desktop\\PL4N\\PL4N App\\PL4N App.csproj",
       "packagesPath": "C:\\Users\\aiden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aiden\\source\\repos\\PL4N App\\obj\\",
+      "outputPath": "C:\\Users\\aiden\\Desktop\\PL4N\\PL4N App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
