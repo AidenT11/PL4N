@@ -18,8 +18,8 @@
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
             <Button x:Name="btnMinimise" Content="-" Width="40" Height="30"
-                BorderBrush="Transparent" FontSize="30" Foreground="LightGray"
-                Click="btnMinimise_Click">
+                    BorderBrush="Transparent" FontSize="30" Foreground="LightGray"
+                    Click="btnMinimise_Click">
                 <Button.Style>
                     <Style TargetType="{x:Type Button}">
                         <Setter Property="Background" Value="Transparent"/>
@@ -29,6 +29,30 @@
                                     <Grid>
                                         <Rectangle Fill="{TemplateBinding Background}"/>
                                         <TextBlock Text="-" Foreground="{TemplateBinding Foreground}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Grid>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#4d4d4d"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button x:Name="btnMaximise" Width="40" Height="30" FontFamily="Marlett"
+                    BorderBrush="Transparent" FontSize="16" Foreground="LightGray"
+                    Click="btnMaximise_Click">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Grid>
+                                        <Rectangle Fill="{TemplateBinding Background}"/>
+                                        <TextBlock FontFamily="Marlett" Text="{Binding MaximiseEmoji}" Foreground="{TemplateBinding Foreground}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                                     </Grid>
                                 </ControlTemplate>
                             </Setter.Value>
